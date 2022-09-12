@@ -26,4 +26,4 @@ Run:
 - Build:
   - npm run build
 - Access:
-  http://localhost:5173
+  - http://localhost:5173
