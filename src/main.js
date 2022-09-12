@@ -16,7 +16,7 @@ app.config.globalProperties.$logout = function() {
 }
 var keycloak = new Keycloak({ 
     url: 'https://sso.sad-waterdeer.com/auth', 
-    realm: 'MY', 
+    realm: 'TEST', 
     clientId: 'kanban_local' 
 });
 
