@@ -14,8 +14,11 @@ Using:
 - Vita
 - tailwindcss
 - TypeScript
-- Vue-cli
+- Vue-cli   
 
+
+
+Run: 
 - Install:
   - npm install
 - Run:
