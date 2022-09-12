@@ -1,6 +1,7 @@
 # free-kanban
 
-Preview Link: https://free-kanban-8dfkn6xdx-seki2020.vercel.app/
+copy modify from https://github.com/seki2020/free-kanban?ref=vuejsexamples.com 
+demo: https://kanban.sad-waterdeer.com/
 
 ![image](https://user-images.githubusercontent.com/46511237/185743780-97b6b01a-4043-49e7-8ca0-3ebf5bb3ffb8.png)
 
@@ -11,3 +12,10 @@ Using:
 - tailwindcss
 - TypeScript
 - Vue-cli
+
+Install:
+  npm install
+Run:
+  npm run dev 
+Build:
+  npm run build
