@@ -1,6 +1,6 @@
 # free-kanban
 
-copy modify from https://github.com/seki2020/free-kanban?ref=vuejsexamples.com   
+copy and modify from https://github.com/seki2020/free-kanban?ref=vuejsexamples.com   
 
 demo: https://kanban.sad-waterdeer.com/   
 
